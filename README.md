@@ -186,6 +186,4 @@ Evaluation can be extended with automated benchmarks or human review.
 
 ---
 
-## 📄 License
 
-This project is open‑source. Please add a LICENSE file to define usage and distribution terms.
